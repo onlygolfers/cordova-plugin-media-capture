@@ -2,6 +2,11 @@
 title: Media Capture
 description: Capture audio, video, and images.
 ---
+
+> [!WARNING]
+> **Legacy — no longer maintained.** This plugin was only used by the old Cordova app (`mobile-app`).
+> The current Only Golfers apps do not use Cordova: they are native apps built in Swift (`app-ios`) and Android (`app-android`).
+
 <!--
 # license: Licensed to the Apache Software Foundation (ASF) under one
 #         or more contributor license agreements.  See the NOTICE file
